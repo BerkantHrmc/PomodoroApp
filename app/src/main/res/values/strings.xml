@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PomodoroApp</string>
+    <string name="app_name">PomodoraApp</string>
     <string name="loading_text">Pomodoron Yükleniyor...</string>
     <string name="intro_gif_desc">Intro gif</string>
 
